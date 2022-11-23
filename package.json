@@ -1,0 +1,17 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Code written without any frameworks",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Uchkun Rakhimov",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
