@@ -13,6 +13,10 @@
 ### DELETE - All or ID
 ![DELETE](./screens/DELETE.png)
 
+### Run via Nodemon:
+ ```
+ npm run dev
+ ```
 ### USED:
    - Node: 18.12.1
    - NPM: 9.1.2
